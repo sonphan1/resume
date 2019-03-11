@@ -9,8 +9,8 @@ about: Hi, my name is John Doe. I"m just about the most boring type of person yo
 position: Software Developer
 
 birth:
-  year: 1990
-  location: New York
+  year: 1992
+  location: San Jose, CA
 
 experience:
 - company: Company A
@@ -58,7 +58,7 @@ skills:
 - name: Docker
   level: 99
 knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
-  (English and Klingon).
+  (English and Vietnamese).
 
 projects:
 - name: best-resume-ever
@@ -81,12 +81,11 @@ contributions:
   url: https://github.com/salomonelli/best-resume-ever
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  email: sonphan1@gmail.com
+  phone: (316) 250-4029
+  city: Wichita
+  website: https://www.linkedin.com/in/sonphan1 
+  github: sonphan1
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
 lang: en
 `
